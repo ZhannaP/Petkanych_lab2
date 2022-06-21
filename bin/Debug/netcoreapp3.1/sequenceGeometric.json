@@ -1,0 +1,18 @@
+{
+  "SEQUENCE": [
+    2,
+    4,
+    8,
+    16,
+    32,
+    64
+  ],
+  "MinNumber": 2,
+  "MaxNumber": 64,
+  "IsGrowing": true,
+  "IsNotGrowing": false,
+  "IsDescending": false,
+  "IsNotDescending": true,
+  "ArythmProgression": null,
+  "GeomProgression": true
+}

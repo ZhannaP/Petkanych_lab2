@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Учоба\ik-12\proga\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CopyComplete
